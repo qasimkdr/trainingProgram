@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Schedule Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body {
+        background: linear-gradient(to bottom, #0f172a, #1e293b);
+        color: #fff;
+      }
+      .glow {
+        text-shadow: 0 0 10px #38bdf8, 0 0 20px #38bdf8, 0 0 30px #38bdf8;
+      }
+      .neon-border {
+        box-shadow: 0 0 10px #38bdf8, 0 0 20px #0ea5e9;
+      }
+    </style>
+  </head>
+  <body class="font-sans">
+    <!-- Hero Section -->
+    <section class="h-[70vh] flex flex-col justify-center items-center text-center px-6">
+      <h1 class="text-5xl md:text-6xl font-bold glow mb-4 transition-all duration-300 hover:scale-105">
+        AI Schedule Assistant
+      </h1>
+      <p class="text-xl md:text-2xl text-gray-300 max-w-2xl">
+        Automate your class schedules using AI! Just click, assign, and let the system handle the rest.
+      </p>
+      <a
+        href="./try.html"
+        class="mt-6 inline-block px-6 py-3 bg-blue-500 text-white font-semibold rounded-xl hover:bg-blue-600 transition duration-300 shadow-lg neon-border"
+      >
+        Go To Training program Scheduler
+      </a>
+    </section>
+    <!-- About Me Section -->
+<section class="px-8 py-16 bg-[#1e293b] text-center">
+    <h2 class="text-4xl font-bold mb-6 glow">About Me</h2>
+    <p class="max-w-3xl mx-auto text-lg text-gray-300 leading-relaxed">
+      I’m <span class="text-blue-400 font-semibold">Mohammad Qasim</span>, a passionate <span class="text-green-400 font-semibold">MERN Stack Developer</span>. I created this AI-powered scheduling app as part of the DSL 2025 Knockout challenge. My focus is always on building real-world solutions that automate and enhance everyday tasks.
+    </p>
+  
+    <div class="mt-6 space-y-2 text-gray-300">
+      <p>📱 <strong>WhatsApp:</strong> <a href="https://wa.me/923163273012" class="text-blue-400 hover:underline">0316 3273012</a></p>
+      <p>📧 <strong>Email:</strong> <a href="mailto:kdrqasim@gmail.com" class="text-blue-400 hover:underline">kdrqasim@gmail.com</a></p>
+    </div>
+  </section>
+  
+  <!-- Web App Features Section -->
+  <section class="px-8 py-16 bg-[#0f172a] text-center">
+    <h2 class="text-4xl font-bold mb-10 glow">Web App Features</h2>
+    <div class="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto">
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">➕ Add / 🗑️ Delete Class</h3>
+        <p class="text-gray-300">Easily manage your class list with add and delete functionality.</p>
+      </div>
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">👨‍🏫 Add / Delete Teacher</h3>
+        <p class="text-gray-300">Assign or remove instructors effortlessly, based on their expertise.</p>
+      </div>
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">📤 Promote Class</h3>
+        <p class="text-gray-300">Quickly promote classes to the next term while maintaining subject data.</p>
+      </div>
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">🖨️ Print Class Schedule</h3>
+        <p class="text-gray-300">Select a class and generate a printable version of its full schedule.</p>
+      </div>
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">⚙️ Auto Assign Feature</h3>
+        <p class="text-gray-300">Let AI auto-assign instructors to subjects based on rules and limits.</p>
+      </div>
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">♻️ Restore Backup</h3>
+        <p class="text-gray-300">Revert your schedule to a previously saved backup in seconds.</p>
+      </div>
+      <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-105 transition">
+        <h3 class="text-xl font-semibold text-blue-400 mb-2">📏 Add/Remove Columns</h3>
+        <p class="text-gray-300">Customize your schedule layout by adding or removing time slot columns.</p>
+      </div>
+    </div>
+  </section>
+  
+
+    <!-- Usage Section -->
+    <section id="usage" class="h-[100vh] px-8 py-16 bg-[#1e293b]">
+      <h2 class="text-4xl font-bold mb-10 text-center glow">How It Works</h2>
+      <div class="grid md:grid-cols-2 gap-12 max-w-6xl mx-auto">
+        <div class="p-6 bg-[#0f172a] rounded-2xl neon-border hover:scale-105 transition">
+          <h3 class="text-2xl font-semibold mb-4 text-blue-400">🚀 Step 1: Class Selection</h3>
+          <p class="text-gray-300">
+            Click the "Auto-Schedule" button and select a class. The system fetches its branch and term automatically.
+          </p>
+        </div>
+        <div class="p-6 bg-[#0f172a] rounded-2xl neon-border hover:scale-105 transition">
+          <h3 class="text-2xl font-semibold mb-4 text-blue-400">🧠 Step 2: Subject Detection</h3>
+          <p class="text-gray-300">
+            Based on the branch and term, relevant subjects are pulled from the database. Only valid instructors are shown.
+          </p>
+        </div>
+        <div class="p-6 bg-[#0f172a] rounded-2xl neon-border hover:scale-105 transition">
+          <h3 class="text-2xl font-semibold mb-4 text-blue-400">🤖 Step 3: AI Instructor Assignment</h3>
+          <p class="text-gray-300">
+            Assign instructors to each subject and the tool ensures no one exceeds their max limit. Smart alerts included!
+          </p>
+        </div>
+        <div class="p-6 bg-[#0f172a] rounded-2xl neon-border hover:scale-105 transition">
+          <h3 class="text-2xl font-semibold mb-4 text-blue-400">📋 Step 4: Final Schedule</h3>
+          <p class="text-gray-300">
+            View or export the final dynamic schedule. You can edit, tweak, or regenerate with ease!
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- AI Tools Section -->
+    <section class="px-8 py-16 bg-[#0f172a] text-center">
+      <h2 class="text-4xl font-bold mb-10 glow">AI Tools Used</h2>
+      <div class="flex flex-col md:flex-row justify-center gap-8">
+        <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-110 transition">
+          <h3 class="text-xl font-semibold mb-2 text-green-400">ChatGPT</h3>
+          <p class="text-gray-300">Used for logic, development help, and feature planning.</p>
+        </div>
+        <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-110 transition">
+          <h3 class="text-xl font-semibold mb-2 text-pink-400">Canva</h3>
+          <p class="text-gray-300">Created background visuals and UI mockups.</p>
+        </div>
+        <div class="p-6 bg-[#1e293b] rounded-xl neon-border hover:scale-110 transition">
+          <h3 class="text-xl font-semibold mb-2 text-yellow-400">MidJourney</h3>
+          <p class="text-gray-300">Designed AI-themed illustrations & branding assets.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center p-6 bg-[#0f172a] text-gray-500">
+      © 2025 Muhammad Qasim. Built for DSL Knockout Task.
+    </footer>
+  </body>
+</html>
