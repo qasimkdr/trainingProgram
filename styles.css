@@ -70,8 +70,8 @@ th {
 }
 
 .modal {
-    height: 60vh;
-    width: 40vw;
+    height: 85vh;
+    width: 45vw;
     border-radius: 1em;
     border: 2px solid black;
     display: none;
