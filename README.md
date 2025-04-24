@@ -8,7 +8,7 @@ The Instructor Scheduler is a lightweight web application designed to help acade
 
 ✨ Features
 
-Select any class and dynamically load its subjects
+Select any class and dynamically load its subjects.
 
 Filter instructors by their subject expertise
 
