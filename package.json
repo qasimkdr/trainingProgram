@@ -1,0 +1,14 @@
+{
+  "name": "training-program-scheduler",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "test": "node --test tests/*.test.js",
+    "check": "node --check server.js && node --check public/src/app.js && node --check shared/engine.js",
+    "build": "node scripts/build.js"
+  },
+  "dependencies": { "exceljs": "4.4.0" }
+}

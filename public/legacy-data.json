@@ -1,0 +1,1094 @@
+{
+  "instructors": [
+    {
+      "name": "Mr. Adeel",
+      "code": 101,
+      "subjects": [
+        "AI",
+        "Machine Learning",
+        "Python",
+        "TensorFlow/PyTorch",
+        "Model Optimization"
+      ],
+      "maxLoad": 30,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Sara",
+      "code": 102,
+      "subjects": [
+        "Data Wrangling",
+        "Big Data",
+        "SQL",
+        "Data Ethics",
+        "Cloud DS"
+      ],
+      "maxLoad": 28,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Haris",
+      "code": 103,
+      "subjects": [
+        "Networking",
+        "Cybersecurity",
+        "Server Management",
+        "Firewall Setup",
+        "Linux Admin"
+      ],
+      "maxLoad": 27,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Dr. Sana",
+      "code": 104,
+      "subjects": [
+        "Cloud Computing",
+        "Cloud AI",
+        "Cloud Deployment",
+        "DevOps",
+        "CI/CD",
+        "Edge AI"
+      ],
+      "maxLoad": 30,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Zubair",
+      "code": 105,
+      "subjects": [
+        "OOP",
+        "Algorithms",
+        "DSA",
+        "Version Control",
+        "Software Testing"
+      ],
+      "maxLoad": 26,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Rida",
+      "code": 106,
+      "subjects": [
+        "UI/UX",
+        "Mobile App Dev",
+        "Agile Methods",
+        "Soft Skills",
+        "Presentation Skills"
+      ],
+      "maxLoad": 29,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Salman",
+      "code": 107,
+      "subjects": [
+        "Python",
+        "Python Advanced",
+        "ML Fundamentals",
+        "Model Deployment",
+        "AI Startups"
+      ],
+      "maxLoad": 27,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Dr. Hina",
+      "code": 108,
+      "subjects": [
+        "Statistics",
+        "Maths",
+        "Linear Algebra",
+        "Advanced Math",
+        "Probability"
+      ],
+      "maxLoad": 25,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Sabeen",
+      "code": 109,
+      "subjects": [
+        "Intro to CS",
+        "Computer Fundamentals",
+        "Digital Logic",
+        "IT Math",
+        "Programming Basics"
+      ],
+      "maxLoad": 30,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Irfan",
+      "code": 110,
+      "subjects": [
+        "Web Dev",
+        "Mobile Dev",
+        "Portfolio Dev",
+        "Office Automation",
+        "Database Systems"
+      ],
+      "maxLoad": 26,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Komal",
+      "code": 111,
+      "subjects": [
+        "Ethics",
+        "English",
+        "Professional Practices",
+        "Communication Skills",
+        "Research Methods"
+      ],
+      "maxLoad": 27,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Dr. Junaid",
+      "code": 112,
+      "subjects": [
+        "IT Support",
+        "Technical Support Tools",
+        "System Admin",
+        "Virtualization",
+        "Asset Management"
+      ],
+      "maxLoad": 29,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Kamran",
+      "code": 113,
+      "subjects": [
+        "Robotics",
+        "AI in Healthcare",
+        "AI in Society",
+        "AI Ethics",
+        "AI Entrepreneurship"
+      ],
+      "maxLoad": 25,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Hoorain",
+      "code": 114,
+      "subjects": [
+        "Cloud Tools",
+        "Cloud Security",
+        "Disaster Recovery",
+        "Risk Management",
+        "Project Management"
+      ],
+      "maxLoad": 28,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Dr. Yasir",
+      "code": 115,
+      "subjects": [
+        "Intro to AI",
+        "AI",
+        "DL",
+        "Reinforcement Learning",
+        "AI Project",
+        "Research in AI"
+      ],
+      "maxLoad": 30,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Noor",
+      "code": 116,
+      "subjects": [
+        "Scripting Basics",
+        "Scripting",
+        "Data Handling",
+        "Data Communication",
+        "Data Pipelines"
+      ],
+      "maxLoad": 26,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Rehan",
+      "code": 117,
+      "subjects": [
+        "Cloud",
+        "Software Modeling",
+        "Software Architecture",
+        "Microservices",
+        "Full-Stack Dev"
+      ],
+      "maxLoad": 27,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Dr. Mahnoor",
+      "code": 118,
+      "subjects": [
+        "Entrepreneurship",
+        "Business Intelligence",
+        "Data Strategy",
+        "Product Management",
+        "Team Leadership"
+      ],
+      "maxLoad": 30,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Arham",
+      "code": 119,
+      "subjects": [
+        "Intro to DS",
+        "Excel for DS",
+        "Data Viz",
+        "Capstone I",
+        "Capstone II"
+      ],
+      "maxLoad": 29,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Iqra",
+      "code": 120,
+      "subjects": [
+        "Networking Basics",
+        "CS Fundamentals",
+        "Maths for AI",
+        "IT Consultancy",
+        "Open Source Contribution"
+      ],
+      "maxLoad": 28,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Danish",
+      "code": 121,
+      "subjects": [
+        "Final Year Project",
+        "Internship",
+        "Final Project",
+        "Capstone Project"
+      ],
+      "maxLoad": 25,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Mahira",
+      "code": 122,
+      "subjects": [
+        "Programming Logic",
+        "Design Thinking",
+        "Software Engineering",
+        "Software Auditing",
+        "Security in SD"
+      ],
+      "maxLoad": 26,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Dr. Zeeshan",
+      "code": 123,
+      "subjects": [
+        "Operating Systems",
+        "OS Management",
+        "Email Server Config",
+        "Cloud Deployment",
+        "Mobile Dev"
+      ],
+      "maxLoad": 27,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Mr. Fawad",
+      "code": 124,
+      "subjects": [
+        "Cloud DS",
+        "Big Data",
+        "Cloud AI Tools",
+        "Big Data for AI",
+        "Analytics"
+      ],
+      "maxLoad": 30,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    },
+    {
+      "name": "Ms. Hina",
+      "code": 125,
+      "subjects": [
+        "Neural Nets",
+        "DL",
+        "NLP",
+        "Time Series",
+        "CV"
+      ],
+      "maxLoad": 28,
+      "weeklyLoad": 0,
+      "assignedPeriods": {}
+    }
+  ],
+  "classes": [
+    {
+      "className": "A1",
+      "branch": "CS",
+      "term": 1
+    },
+    {
+      "className": "B2",
+      "branch": "IT",
+      "term": 1
+    },
+    {
+      "className": "C3",
+      "branch": "AI",
+      "term": 1
+    },
+    {
+      "className": "D4",
+      "branch": "Data Science",
+      "term": 1
+    },
+    {
+      "className": "E5",
+      "branch": "Data Science",
+      "term": 1
+    },
+    {
+      "className": "F6",
+      "branch": "IT",
+      "term": 2
+    },
+    {
+      "className": "G7",
+      "branch": "AI",
+      "term": 2
+    },
+    {
+      "className": "H8",
+      "branch": "Data Science",
+      "term": 2
+    },
+    {
+      "className": "I9",
+      "branch": "CS",
+      "term": 3
+    },
+    {
+      "className": "J10",
+      "branch": "IT",
+      "term": 3
+    },
+    {
+      "className": "K11",
+      "branch": "AI",
+      "term": 3
+    },
+    {
+      "className": "L12",
+      "branch": "Data Science",
+      "term": 3
+    },
+    {
+      "className": "M13",
+      "branch": "CS",
+      "term": 4
+    },
+    {
+      "className": "N14",
+      "branch": "IT",
+      "term": 4
+    },
+    {
+      "className": "O15",
+      "branch": "AI",
+      "term": 4
+    },
+    {
+      "className": "P16",
+      "branch": "Data Science",
+      "term": 4
+    },
+    {
+      "className": "Q17",
+      "branch": "CS",
+      "term": 5
+    },
+    {
+      "className": "R18",
+      "branch": "IT",
+      "term": 5
+    },
+    {
+      "className": "S19",
+      "branch": "AI",
+      "term": 5
+    },
+    {
+      "className": "T20",
+      "branch": "Data Science",
+      "term": 5
+    },
+    {
+      "className": "U21",
+      "branch": "CS",
+      "term": 6
+    },
+    {
+      "className": "V22",
+      "branch": "IT",
+      "term": 6
+    },
+    {
+      "className": "W23",
+      "branch": "AI",
+      "term": 6
+    },
+    {
+      "className": "X24",
+      "branch": "Data Science",
+      "term": 6
+    }
+  ],
+  "curriculum": {
+    "CS": {
+      "1": {
+        "subjects": [
+          {
+            "name": "Math",
+            "totalPeriods": 110,
+            "remainingPeriods": 110
+          },
+          {
+            "name": "Phy",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "Chem",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "BE",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "BEL",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "PHY/L",
+            "totalPeriods": 121,
+            "remainingPeriods": 121
+          },
+          {
+            "name": "CHEM/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "BEL/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "BE/L",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          }
+        ],
+        "totalTermPeriods": 294,
+        "remainingTermPeriods": 294
+      },
+      "2": {
+        "subjects": [
+          {
+            "name": "RT",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "DF",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "ST",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "BCS",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "TD",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "OSP&PP",
+            "totalPeriods": 65,
+            "remainingPeriods": 65
+          },
+          {
+            "name": "TE",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "PCC",
+            "totalPeriods": 20,
+            "remainingPeriods": 20
+          },
+          {
+            "name": "MTPC",
+            "totalPeriods": 18,
+            "remainingPeriods": 18
+          },
+          {
+            "name": "RT/L",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "DF/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "TD/L",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          }
+        ],
+        "totalTermPeriods": 210,
+        "remainingTermPeriods": 210
+      },
+      "3": {
+        "subjects": [
+          {
+            "name": "PST",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "ISL",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "CCN",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "MATH",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "PHY",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "DT",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "CA",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "CCN/L",
+            "totalPeriods": 105,
+            "remainingPeriods": 105
+          },
+          {
+            "name": "PHY/L",
+            "totalPeriods": 126,
+            "remainingPeriods": 126
+          },
+          {
+            "name": "DT/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "CA/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          }
+        ],
+        "totalTermPeriods": 240,
+        "remainingTermPeriods": 240
+      },
+      "4": {
+        "subjects": [
+          {
+            "name": "EE",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "AI&CS",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "REQ",
+            "totalPeriods": 95,
+            "remainingPeriods": 95
+          },
+          {
+            "name": "AEL",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "CLS",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "EE/L",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "AI&CS/L",
+            "totalPeriods": 66,
+            "remainingPeriods": 66
+          },
+          {
+            "name": "REQ/L",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "AEL/L",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          }
+        ],
+        "totalTermPeriods": 225,
+        "remainingTermPeriods": 225
+      },
+      "5": {
+        "subjects": [
+          {
+            "name": "ILS",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "DT",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "SEQ",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "PCB",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "BM&IE",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "FCS",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "ILS/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "DT/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "SEQ/L",
+            "totalPeriods": 99,
+            "remainingPeriods": 99
+          },
+          {
+            "name": "PCB/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "FCS/L",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          }
+        ],
+        "totalTermPeriods": 300,
+        "remainingTermPeriods": 300
+      },
+      "6": {
+        "subjects": [
+          {
+            "name": "CIWS",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "PCB",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "O&A",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "EM",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          },
+          {
+            "name": "SM",
+            "totalPeriods": 88,
+            "remainingPeriods": 88
+          },
+          {
+            "name": "PROJ",
+            "totalPeriods": 187,
+            "remainingPeriods": 187
+          },
+          {
+            "name": "CIWS/L",
+            "totalPeriods": 176,
+            "remainingPeriods": 176
+          },
+          {
+            "name": "PCB/L",
+            "totalPeriods": 132,
+            "remainingPeriods": 132
+          },
+          {
+            "name": "EM",
+            "totalPeriods": 44,
+            "remainingPeriods": 44
+          }
+        ],
+        "totalTermPeriods": 300,
+        "remainingTermPeriods": 300
+      }
+    },
+    "Data Science": {
+      "1": {
+        "subjects": [
+          {
+            "name": "Statistics",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Python",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Intro to DS",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Excel for DS",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "English",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Ethics",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Data Ethics",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          }
+        ],
+        "totalTermPeriods": 294,
+        "remainingTermPeriods": 294
+      },
+      "2": {
+        "subjects": [
+          {
+            "name": "Linear Algebra",
+            "totalPeriods": 35,
+            "remainingPeriods": 35
+          },
+          {
+            "name": "Data Wrangling",
+            "totalPeriods": 35,
+            "remainingPeriods": 35
+          },
+          {
+            "name": "Data Viz",
+            "totalPeriods": 35,
+            "remainingPeriods": 35
+          },
+          {
+            "name": "SQL",
+            "totalPeriods": 35,
+            "remainingPeriods": 35
+          },
+          {
+            "name": "Data Communication",
+            "totalPeriods": 35,
+            "remainingPeriods": 35
+          },
+          {
+            "name": "Scripting",
+            "totalPeriods": 35,
+            "remainingPeriods": 35
+          }
+        ],
+        "totalTermPeriods": 210,
+        "remainingTermPeriods": 210
+      },
+      "3": {
+        "subjects": [
+          {
+            "name": "Machine Learning",
+            "totalPeriods": 40,
+            "remainingPeriods": 40
+          },
+          {
+            "name": "Big Data",
+            "totalPeriods": 40,
+            "remainingPeriods": 40
+          },
+          {
+            "name": "Python Advanced",
+            "totalPeriods": 40,
+            "remainingPeriods": 40
+          },
+          {
+            "name": "Model Evaluation",
+            "totalPeriods": 40,
+            "remainingPeriods": 40
+          },
+          {
+            "name": "Probability",
+            "totalPeriods": 40,
+            "remainingPeriods": 40
+          },
+          {
+            "name": "Cloud Tools",
+            "totalPeriods": 40,
+            "remainingPeriods": 40
+          }
+        ],
+        "totalTermPeriods": 240,
+        "remainingTermPeriods": 240
+      },
+      "4": {
+        "subjects": [
+          {
+            "name": "Deep Learning",
+            "totalPeriods": 45,
+            "remainingPeriods": 45
+          },
+          {
+            "name": "NLP",
+            "totalPeriods": 45,
+            "remainingPeriods": 45
+          },
+          {
+            "name": "Time Series",
+            "totalPeriods": 45,
+            "remainingPeriods": 45
+          },
+          {
+            "name": "Data Pipelines",
+            "totalPeriods": 45,
+            "remainingPeriods": 45
+          },
+          {
+            "name": "AI Ethics",
+            "totalPeriods": 45,
+            "remainingPeriods": 45
+          },
+          {
+            "name": "Analytics",
+            "totalPeriods": 45,
+            "remainingPeriods": 45
+          }
+        ],
+        "totalTermPeriods": 270,
+        "remainingTermPeriods": 270
+      },
+      "5": {
+        "subjects": [
+          {
+            "name": "Capstone I",
+            "totalPeriods": 50,
+            "remainingPeriods": 50
+          },
+          {
+            "name": "Model Deployment",
+            "totalPeriods": 50,
+            "remainingPeriods": 50
+          },
+          {
+            "name": "Cloud DS",
+            "totalPeriods": 50,
+            "remainingPeriods": 50
+          },
+          {
+            "name": "Business Intelligence",
+            "totalPeriods": 50,
+            "remainingPeriods": 50
+          },
+          {
+            "name": "Data Strategy",
+            "totalPeriods": 50,
+            "remainingPeriods": 50
+          },
+          {
+            "name": "ML Ops",
+            "totalPeriods": 50,
+            "remainingPeriods": 50
+          }
+        ],
+        "totalTermPeriods": 300,
+        "remainingTermPeriods": 300
+      },
+      "6": {
+        "subjects": [
+          {
+            "name": "Capstone II",
+            "totalPeriods": 60,
+            "remainingPeriods": 60
+          },
+          {
+            "name": "Internship",
+            "totalPeriods": 60,
+            "remainingPeriods": 60
+          },
+          {
+            "name": "Data Privacy",
+            "totalPeriods": 60,
+            "remainingPeriods": 60
+          },
+          {
+            "name": "Ethical Hacking for DS",
+            "totalPeriods": 60,
+            "remainingPeriods": 60
+          },
+          {
+            "name": "Presentation Skills",
+            "totalPeriods": 60,
+            "remainingPeriods": 60
+          }
+        ],
+        "totalTermPeriods": 300,
+        "remainingTermPeriods": 300
+      }
+    },
+    "IT": {
+      "1": {
+        "subjects": [
+          {
+            "name": "Computer Basics",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Office Automation",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          }
+        ],
+        "totalTermPeriods": 294,
+        "remainingTermPeriods": 294
+      }
+    },
+    "AI": {
+      "1": {
+        "subjects": [
+          {
+            "name": "Maths for AI",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Intro to AI",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          }
+        ],
+        "totalTermPeriods": 294,
+        "remainingTermPeriods": 294
+      }
+    },
+    "SD": {
+      "1": {
+        "subjects": [
+          {
+            "name": "Math",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          },
+          {
+            "name": "Higher Math",
+            "totalPeriods": 42,
+            "remainingPeriods": 42
+          }
+        ],
+        "totalTermPeriods": 294,
+        "remainingTermPeriods": 294
+      }
+    }
+  }
+}
